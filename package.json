@@ -1,16 +1,16 @@
 {
-  "name": "the-new-sandbox",
+  "name": "St. Jean Vianney",
   "version": "0.5.0",
-  "description": "Sandbox site featuring typical Apostrophe features",
+  "description": "SJV Church in Baton Rouge",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/punkave/apostrophe-sandbox"
+    "url": "https://github.com/malacon/sjv-apos"
   },
-  "author": "P'unk Avenue",
+  "author": "Craig Baker",
   "license": "BSD",
   "dependencies": {
     "apostrophe": "0.5.x",
